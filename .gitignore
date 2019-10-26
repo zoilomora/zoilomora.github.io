@@ -1,0 +1,11 @@
+# windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+
+# Ignore docs files
+_site
+.jekyll-cache
+/vendor/
+Gemfile.lock

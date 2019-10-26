@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Paginate
+paginate:         5
+
+# Setup
+title:            'Zoilo Mora'
+tagline:          'Knowledge Base'
+description:      'Senior PHP Developer'
+url:              https://zoilomora.net
+baseurl:          /
+author:
+  name:           'Zoilo Mora'
+  url:            https://twitter.com/ZoiloMora
+
+exclude:
+  - vendor
+  - CNAME
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - README.md

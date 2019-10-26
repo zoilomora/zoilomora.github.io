@@ -1,0 +1,16 @@
+version: '3.4'
+
+services:
+  builder:
+    image: jekyll/jekyll:latest
+    command: jekyll build --trace
+    volumes:
+      - ./:/srv/jekyll
+      - ./vendor/bundle:/usr/local/bundle
+
+  webserver:
+    image: nginx:alpine
+    volumes:
+      - ./_site:/usr/share/nginx/html
+    ports:
+      - "8080:80"
