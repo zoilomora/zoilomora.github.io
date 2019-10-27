@@ -22,13 +22,13 @@ Dispositivo Tamaño Tipo
 
 2. Ejecutar los siguientes comandos:
 
-```shell
-sudo mount /dev/sd2 /mnt
-sudo mount /dev/sd1 /mnt/boot/efi
-for i in /dev /dev/pts /proc /sys /run; do \
-    sudo mount -B $i /mnt$i; \
-done
-sudo chroot /mnt
-grub-install /dev/sda
-update-grub
-```
+    ```shell
+    sudo mount /dev/sd2 /mnt
+    sudo mount /dev/sd1 /mnt/boot/efi
+    for i in /dev /dev/pts /proc /sys /run; do \
+        sudo mount -B $i /mnt$i; \
+    done
+    sudo chroot /mnt
+    grub-install /dev/sda
+    update-grub
+    ```
