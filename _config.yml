@@ -1,25 +1,27 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown:           kramdown
+highlighter:        rouge
 
 # Permalinks
-permalink:        pretty
+permalink:          pretty
 
 # Paginate
-paginate:         5
-paginate_path:    '/page/:num/'
+paginate:           5
+paginate_path:      '/page/:num/'
 
 # Setup
-title:            'Zoilo Mora'
-tagline:          'Knowledge Base'
-description:      'Senior PHP Developer'
+title:              'Zoilo Mora'
+tagline:            'Knowledge Base'
+description:        'Senior PHP Developer'
 
-url:              'https://zoilomora.net'
-baseurl:          ''
+url:                'https://zoilomora.net'
+baseurl:            ''
 
 author:
-  name:           'Zoilo Mora'
-  url:            'https://twitter.com/ZoiloMora'
+  name:             'Zoilo Mora'
+  url:              'https://twitter.com/ZoiloMora'
+
+excerpt_separator:  '<!--more-->'
 
 exclude:
   - docker
