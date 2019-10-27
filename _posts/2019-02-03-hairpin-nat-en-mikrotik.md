@@ -2,7 +2,7 @@
 layout: post
 title: "Hairpin NAT en MikroTik"
 categories: [mikrotik]
-tags: []
+tags: [mikrotik, nat, puertos, conexion, dns]
 ---
 
 Si usas un [MikroTik](https://mikrotik.com/){:target="_blank"} y as abierto los puertos para acceder desde el exterior a algun servicio de tu red interna, quizas te has encontrado con el problema que me encontre este fin de semana.
