@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comprimir y Descomprimir Ficheros en Linux"
+title: "Comprimir y descomprimir ficheros en Linux"
 categories: [linux]
 tags: [linux, comprimir, descomprimir, fichero, consola, shell]
 ---
