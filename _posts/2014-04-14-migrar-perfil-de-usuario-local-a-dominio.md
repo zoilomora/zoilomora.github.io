@@ -11,7 +11,7 @@ Cuando queremos migrar una red de **Grupo de Trabajo** a **Dominio**, lo que nos
 Tenemos que transferir ficheros, correos electrónicos, configuraciones, etc.
 
 Existe una sencilla aplicación con la que podemos migrar todo el perfil de un usuario local al dominio.
-Se trata de **[User Profile Wizard](https://www.forensit.com/domain-migration.html)** una aplicación de [ForensiT](https://www.forensit.com/).
+Se trata de **[User Profile Wizard](https://www.forensit.com/domain-migration.html){:target="_blank"}** una aplicación de [ForensiT](https://www.forensit.com/){:target="_blank"}.
 
 <!--more-->
 

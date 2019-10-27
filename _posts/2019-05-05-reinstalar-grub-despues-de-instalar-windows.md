@@ -11,11 +11,11 @@ Cuando tenemos **Linux** como primer sistema operativo en el disco duro e instal
 
 Partiendo de este esquema de particiones, habria que seguir los siguientes pasos:
 ```
-Dispositivo   Tamaño   Tipo
-/dev/sda1       100M   Sistema EFI
-/dev/sda2       300G   Sistema de ficheros de Linux
-/dev/sda3        16M   Reservado para Microsoft
-/dev/sda4     165,7G   Datos básicos de Microsoft
+Dispositivo Tamaño Tipo
+/dev/sda1     100M Sistema EFI
+/dev/sda2     300G Sistema de ficheros de Linux
+/dev/sda3      16M Reservado para Microsoft
+/dev/sda4   165,7G Datos básicos de Microsoft
 ```
 
 1. Arrancar con un **CD Live** o **USB Live** de Linux.

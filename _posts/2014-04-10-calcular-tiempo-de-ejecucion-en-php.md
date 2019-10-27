@@ -5,7 +5,7 @@ categories: [php]
 tags: [php, script, tiempo]
 ---
 
-En PHP existe la función **microtime()** que nos da el tiempo en milisegundos, ahora bien, existen diferencias en la función de PHP4 y PHP5. Os dejo los ejemplos de las 2 versiones para que no tengáis problemas.
+En PHP existe la función **[microtime()](https://www.php.net/manual/es/function.microtime.php){:target="_blank"}** que nos da el tiempo en milisegundos, ahora bien, existen diferencias en la función de PHP4 y PHP5. Os dejo los ejemplos de las 2 versiones para que no tengáis problemas.
 
 <!--more-->
 
