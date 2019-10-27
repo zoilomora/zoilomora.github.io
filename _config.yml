@@ -12,17 +12,19 @@ paginate:         5
 title:            'Zoilo Mora'
 tagline:          'Knowledge Base'
 description:      'Senior PHP Developer'
-url:              https://zoilomora.net
-baseurl:          /
+url:              'https://zoilomora.net'
+baseurl:          '/'
 author:
   name:           'Zoilo Mora'
-  url:            https://twitter.com/ZoiloMora
+  url:            'https://twitter.com/ZoiloMora'
 
 exclude:
+  - docker
   - vendor
   - CNAME
   - docker-compose.yml
   - Gemfile
   - Gemfile.lock
+  - LICENSE
   - Makefile
   - README.md
