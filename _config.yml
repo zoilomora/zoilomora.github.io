@@ -7,13 +7,16 @@ permalink:        pretty
 
 # Paginate
 paginate:         5
+paginate_path:    '/page/:num/'
 
 # Setup
 title:            'Zoilo Mora'
 tagline:          'Knowledge Base'
 description:      'Senior PHP Developer'
+
 url:              'https://zoilomora.net'
 baseurl:          ''
+
 author:
   name:           'Zoilo Mora'
   url:            'https://twitter.com/ZoiloMora'
