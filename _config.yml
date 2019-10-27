@@ -13,7 +13,7 @@ title:            'Zoilo Mora'
 tagline:          'Knowledge Base'
 description:      'Senior PHP Developer'
 url:              'https://zoilomora.net'
-baseurl:          '/'
+baseurl:          ''
 author:
   name:           'Zoilo Mora'
   url:            'https://twitter.com/ZoiloMora'
