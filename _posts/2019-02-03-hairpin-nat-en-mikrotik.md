@@ -5,7 +5,7 @@ categories: [mikrotik]
 tags: [mikrotik, nat, puertos, conexion, dns]
 ---
 
-Si usas un [MikroTik](https://mikrotik.com/){:target="_blank"} y as abierto los puertos para acceder desde el exterior a algun servicio de tu red interna, quizas te has encontrado con el problema que me encontre este fin de semana.
+Si usas un [MikroTik](https://mikrotik.com/){:target="_blank"} y has abierto los puertos para acceder desde el exterior a algun servicio de tu red interna, quizas te has encontrado con el problema que me encontre este fin de semana.
 
 Al intentar acceder por un DNS que apuntaba a la IP externa del router desde la red interna no se establecia la conexion.
 
